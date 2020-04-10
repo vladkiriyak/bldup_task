@@ -1,0 +1,90 @@
+[
+  {
+    "data": "01/03/2020",
+    "type": "DEED",
+    "book": "None",
+    "page_num": "None",
+    "doc_num": "111569",
+    "city": "SEEKONK",
+    "description": "OLD FALL RIVER AVE (STATE HWY) 1872 FALL RIVER AVE , $650000.00",
+    "cost": 650000.0,
+    "street_address": "RIVER AVE"
+  },
+  {
+    "data": "01/06/2020",
+    "type": "DEED",
+    "book": "None",
+    "page_num": "None",
+    "doc_num": "111584",
+    "city": "MANSFIELD",
+    "description": "LOT 4 SP 8623-E FRANKLIN ST 474-476 FRANKLIN ST , $420000.00",
+    "cost": 420000.0,
+    "street_address": "FRANKLIN ST"
+  },
+  {
+    "data": "01/09/2020",
+    "type": "DEED",
+    "book": "None",
+    "page_num": "None",
+    "doc_num": "111597",
+    "city": "REHOBOTH",
+    "description": "LOT 41 SP 13972-G CIANA RD & CHELSEA CIR 15 CIANA RD , $205000.00",
+    "cost": 205000.0,
+    "street_address": "CIANA RD"
+  },
+  {
+    "data": "01/15/2020",
+    "type": "DEED",
+    "book": "None",
+    "page_num": "None",
+    "doc_num": "111612",
+    "city": "EASTON",
+    "description": "LOTS 2 & 3 SP 35212-B SUMMER ST 65 SUMMER ST , $505000.00",
+    "cost": 505000.0,
+    "street_address": "SUMMER ST"
+  },
+  {
+    "data": "01/15/2020",
+    "type": "DEED",
+    "book": "None",
+    "page_num": "None",
+    "doc_num": "111615",
+    "city": "EASTON",
+    "description": "LOT 6 SP 30415-B BALTIC AVE 39 BALTIC AVE , $585000.00",
+    "cost": 585000.0,
+    "street_address": "BALTIC AVE"
+  },
+  {
+    "data": "01/16/2020",
+    "type": "DEED",
+    "book": "None",
+    "page_num": "None",
+    "doc_num": "111622",
+    "city": "REHOBOTH",
+    "description": "LOT 34 SP 13972-G CIANA RD REG & UNREG 12 CIANA RD , $190000.00",
+    "cost": 190000.0,
+    "street_address": "CIANA RD"
+  },
+  {
+    "data": "01/17/2020",
+    "type": "DEED",
+    "book": "None",
+    "page_num": "None",
+    "doc_num": "111627",
+    "city": "EASTON",
+    "description": "LOT 2 SP 21357-B DEPOT ST 678 DEPOT ST , $12650000.00",
+    "cost": 12650000.0,
+    "street_address": "DEPOT ST"
+  },
+  {
+    "data": "01/17/2020",
+    "type": "DEED",
+    "book": "None",
+    "page_num": "None",
+    "doc_num": "111636",
+    "city": "REHOBOTH",
+    "description": "LOT 1 SP 42743-B SUMMER ST 240 SUMMER ST , $632500.00",
+    "cost": 632500.0,
+    "street_address": "SUMMER ST"
+  }
+]
